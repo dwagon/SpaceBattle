@@ -1,0 +1,5 @@
+Simple game to match fleets of spaceships against each other
+
+Requires pygame
+
+Run game.py
